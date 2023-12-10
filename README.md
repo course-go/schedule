@@ -1,5 +1,9 @@
 # Course schedule
 
+> [!WARNING]
+> The course is currently a WIP! \
+> None of the things stated here are final.
+
 ## Schedule sketch
 
 ![Schedule outline](./assets/semester-outline-sketch.svg)
