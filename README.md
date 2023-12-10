@@ -18,7 +18,9 @@
     - Comparison with other languages
     - Where is it used
     - Installation
+        - Environment setup
     - Tooling
+        - IDEs
 2. Basics #1
     - Keywords
     - Data types
@@ -40,6 +42,7 @@
     - Slices
     - Maps
     - Range
+    - Generics
     - Standard Library
         - os
         - io
@@ -70,6 +73,7 @@
     - Configs
         - flags
         - Viper
+    - Templates
 6. Building APIs
     - REST
     - Http package
@@ -117,6 +121,9 @@
     - Project setup
     - Git, GitHub & GitLab
     - GitHub Actions
+        - Workflows
+        - Artifacts
+        - Variables & Secrets
     - CI
         - Formatting
         - Lint
@@ -128,6 +135,7 @@
     - CD
         - Upload
         - Deployment
+    - Bots
     - Tags & Releases
     - Go Packages & Documentation
 10. Event Driven Communication
