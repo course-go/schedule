@@ -4,7 +4,7 @@
 > The course is currently a WIP! \
 > None of the things stated here are final.
 
-## Schedule sketch
+## Outline
 
 ![Schedule outline](./assets/semester-outline-sketch.svg)
 
