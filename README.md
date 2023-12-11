@@ -163,3 +163,11 @@
     - Proxying
         - Caddy
         - Traefik
+
+## Assesment
+
+- Completion of exercises
+- Final project
+    - Team
+    - Solo
+    - Open-source PR
