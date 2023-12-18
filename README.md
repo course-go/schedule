@@ -51,6 +51,7 @@
         - sort
         - rand & crypto/rand
 4. Concurrency and parallelism
+    - Runtime
     - Goroutines
     - Channels
         - Buffering
