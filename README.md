@@ -12,6 +12,7 @@
 
 1. Introduction
     - Course syllabus & requirements
+    - The Capstone
     - History of Go
     - Putting Go into context
     - Why learn it
